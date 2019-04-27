@@ -1,0 +1,2 @@
+# minicursogit
+Curso Git (Flisol)
